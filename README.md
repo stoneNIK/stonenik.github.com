@@ -1,2 +1,1 @@
-# my online resume
-  hello world
+# my personal website
